@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../aws-lambda/.idea/aws-lambda.iml" filepath="$PROJECT_DIR$/../aws-lambda/.idea/aws-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/real-estate-nodeapi.iml" filepath="$PROJECT_DIR$/.idea/real-estate-nodeapi.iml" />
+    </modules>
+  </component>
+</project>
